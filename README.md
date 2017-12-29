@@ -1,2 +1,2 @@
-# First-Python-Project
+# firstPythonProject
 Learning Python and Git
